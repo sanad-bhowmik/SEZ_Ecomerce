@@ -1,0 +1,8 @@
+[01-May-2024 02:04:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uzanvati/demo.uzanvati.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uzanvati/demo.uzanvati.com/config/cache.php on line 18
+[01-May-2024 02:04:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/uzanvati/demo.uzanvati.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uzanvati/demo.uzanvati.com/config/cache.php on line 18
